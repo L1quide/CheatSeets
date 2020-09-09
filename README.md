@@ -1,3 +1,3 @@
 # CheatSeets
 
-[✓ Настройка Django для работы с PostgreSQL](https://github.com/L1quide/CheatSeets/blob/master/Django_PgSQL.md)
+[✓ Django Cheat Sheets](https://github.com/L1quide/CheatSeets/blob/master/Django_main.md)
