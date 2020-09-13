@@ -1,4 +1,5 @@
-[❰❰❰](https://github.com/L1quide/CheatSeets/blob/master/Django_main.md)
+[❰❰❰](https://github.com/L1quide/CheatSeets/blob/master/Django_main.md)  [HOME](https://github.com/L1quide/CheatSeets/blob/master/README.md)
+
 #### ✓ Настройка Django для работы с PostgreSQL
 
 ▪ sudo apt-get install libpq-dev python-dev
