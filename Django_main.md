@@ -3,7 +3,7 @@
 
 [✓ Первоначальная настройка проекта](https://github.com/L1quide/CheatSeets/blob/master/django_start.md)
 
-[✓ django-admin и manage.py ](https://github.com/L1quide/CheatSeets/blob/master/Settings.md)
+[✓ django-admin и manage.py ](https://github.com/L1quide/CheatSeets/blob/master/base_cmd.md)
 
 [✓ Settings.py ](https://github.com/L1quide/CheatSeets/blob/master/Settings.md)
 
