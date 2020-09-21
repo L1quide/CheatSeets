@@ -6,6 +6,8 @@
 
 [✓ Отношения](https://github.com/L1quide/CheatSeets/blob/master/otnosheniya.md)
 
+[✓ Методы модели](https://github.com/L1quide/CheatSeets/blob/master/model_method.md)
+
 [✓ Опции Meta](https://github.com/L1quide/CheatSeets/blob/master/Meta.md)
 
 [✓ Агрегация](https://github.com/L1quide/CheatSeets/blob/master/Aggregation.md)
