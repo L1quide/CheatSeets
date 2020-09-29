@@ -21,3 +21,13 @@
 #### ✓ Зарегистрировать приложение в settings.py
 
 ▪ libra/libra/libra/settings.py ➜ INSTALLED_APPS ➜ 'catalog.apps.CatalogConfig'
+
+#### ✓ Создать суперюзера
+
+▪ python manage.py createsuperuser
+    
+#### ✓ Подготовить/Выполнить миграцию
+
+▪ python manage.py makemigrations - подготовить созданную базу данных к миграции.
+
+▪ python manage.py migrate - выполнить миграцию.
