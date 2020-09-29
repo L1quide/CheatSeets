@@ -16,6 +16,11 @@
     def get_absolute_url(self):
         from django.urls import reverse
         return reverse('people.views.details', args=[str(self.id)])
+        
+     &&
+     
+    def get_absolute_url(self):
+        return reverse('detail', args=[str(self.slug)])   
   
     <a href="{{ object.get_absolute_url }}">{{ object.name }}</a>
         
